@@ -1,0 +1,1 @@
+window.CKEDITOR_BASEPATH = '/open/profiles/openoutreach/libraries/ckeditor/';
